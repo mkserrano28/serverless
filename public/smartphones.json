@@ -1,0 +1,135 @@
+{
+    "smartphones": [
+      {
+        "id": "1",
+        "image": "images/iphone1.jpg",
+        "brand": "Apple",
+        "model": "EPhone 15 Pro",
+        "price": 999.99,
+        "currency": "USD",
+        "release_date": "2023-09-22",
+        "specifications": {
+          "display": "6.1-inch Super Retina XDR",
+          "processor": "A17 Pro",
+          "ram": "8GB",
+          "storage": ["128GB", "256GB", "512GB", "1TB"],
+          "camera": {
+            "rear": "48MP + 12MP + 12MP",
+            "front": "12MP"
+          },
+          "battery": "3274mAh",
+          "os": "EOS 17",
+          "connectivity": ["5G", "Wi-Fi 6E", "Bluetooth 5.3", "USB-C"]
+        },
+        "availability": {
+          "in_stock": true,
+          "stores": ["Apple Store", "Best Buy", "Amazon"]
+        }
+      },
+      {
+        "id": "2",
+        "image": "images/iphone2.jpg",
+        "brand": "Samsung",
+        "model": "EGalaxy S23 Ultra",
+        "price": 1199.99,
+        "currency": "USD",
+        "release_date": "2023-02-17",
+        "specifications": {
+          "display": "6.8-inch Dynamic AMOLED 2X",
+          "processor": "Snapdragon 8 Gen 2",
+          "ram": "12GB",
+          "storage": ["256GB", "512GB", "1TB"],
+          "camera": {
+            "rear": "200MP + 10MP + 10MP + 12MP",
+            "front": "12MP"
+          },
+          "battery": "5000mAh",
+          "os": "Android 13",
+          "connectivity": ["5G", "Wi-Fi 6E", "Bluetooth 5.3", "USB-C"]
+        },
+        "availability": {
+          "in_stock": false,
+          "stores": ["Amazon", "Samsung Store"]
+        }
+      },
+      {
+        "id": "3",
+        "image": "images/iphone3.jpg",
+        "brand": "Google",
+        "model": "EPixel 9 Pro",
+        "price": 899.99,
+        "currency": "USD",
+        "release_date": "2023-10-04",
+        "specifications": {
+          "display": "6.7-inch LTPO OLED",
+          "processor": "Google Tensor G3",
+          "ram": "12GB",
+          "storage": ["128GB", "256GB", "512GB"],
+          "camera": {
+            "rear": "50MP + 48MP + 48MP",
+            "front": "10.5MP"
+          },
+          "battery": "5050mAh",
+          "os": "Android 14",
+          "connectivity": ["5G", "Wi-Fi 7", "Bluetooth 5.3", "USB-C"]
+        },
+        "availability": {
+          "in_stock": true,
+          "stores": ["Google Store", "Amazon", "Best Buy"]
+        }
+      },
+      {
+        "id": "4",
+        "image": "images/iphone4.jpg",
+        "brand": "Google",
+        "model": "EPixel 8 Pro",
+        "price": 899.99,
+        "currency": "USD",
+        "release_date": "2023-10-04",
+        "specifications": {
+          "display": "6.7-inch LTPO OLED",
+          "processor": "Google Tensor G3",
+          "ram": "12GB",
+          "storage": ["128GB", "256GB", "512GB"],
+          "camera": {
+            "rear": "50MP + 48MP + 48MP",
+            "front": "10.5MP"
+          },
+          "battery": "5050mAh",
+          "os": "Android 14",
+          "connectivity": ["5G", "Wi-Fi 7", "Bluetooth 5.3", "USB-C"]
+        },
+        "availability": {
+          "in_stock": true,
+          "stores": ["Google Store", "Amazon", "Best Buy"]
+        }
+      },
+      {
+        "id": "5",
+        "image": "images/iphone6.jpg",
+        "brand": "Samsung",
+        "model": "ESamsung s24",
+        "price": 899.99,
+        "currency": "USD",
+        "release_date": "2023-10-04",
+        "specifications": {
+          "display": "6.7-inch LTPO OLED",
+          "processor": "Google Tensor G3",
+          "ram": "12GB",
+          "storage": ["128GB", "256GB", "512GB"],
+          "camera": {
+            "rear": "50MP + 48MP + 48MP",
+            "front": "10.5MP"
+          },
+          "battery": "5050mAh",
+          "os": "Android 14",
+          "connectivity": ["5G", "Wi-Fi 7", "Bluetooth 5.3", "USB-C"]
+        },
+        "availability": {
+          "in_stock": true,
+          "stores": ["Google Store", "Amazon", "Best Buy"]
+        }
+      }
+    ]
+  }
+  
